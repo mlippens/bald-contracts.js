@@ -1,8 +1,8 @@
 {
-  "name": "simple-contracts.js",
-  "version": "0.0.0",
-  "description": "",
-  "main": "bar.js",
+  "name": "bald-contracts.js",
+  "version": "0.0.1",
+  "description": "A barebones contract system based upon contracts.js by Tim Disney (0.3.4)",
+  "main": "",
   "dependencies": {
     "harmony-reflect": "^0.0.13",
 	  "chai": "latest",
@@ -12,6 +12,6 @@
   "scripts": {
     "test": "mocha --harmony test"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Michael Lippens",
+  "license": "MIT"
 }
