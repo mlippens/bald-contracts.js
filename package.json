@@ -1,0 +1,17 @@
+{
+  "name": "simple-contracts.js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "bar.js",
+  "dependencies": {
+    "harmony-reflect": "^0.0.13",
+	  "chai": "latest",
+    "mocha": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha --harmony test"
+  },
+  "author": "",
+  "license": "ISC"
+}
